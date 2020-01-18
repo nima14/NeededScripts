@@ -13,8 +13,10 @@ git status
 
 git add Readme.txt
 
-git commit -m “Add Readme.txt”
+git commit -m â€œAdd Readme.txtâ€
 
 git remote add origin https://github.com/username/myproject.git
 
 git push -u origin master
+
+git push
