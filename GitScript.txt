@@ -1,4 +1,4 @@
-git config --global user.name "Your Name Here"
+﻿git config --global user.name "Your Name Here"
 
 git config --global user.email "your_email@youremail.com"
 
@@ -21,4 +21,4 @@ git push -u origin master
 
 git push
 
-:)
+
