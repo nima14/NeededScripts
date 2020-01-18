@@ -20,3 +20,5 @@ git remote add origin https://github.com/username/myproject.git
 git push -u origin master
 
 git push
+
+:)
