@@ -22,3 +22,7 @@ git push -u origin master
 git push
 
 start GitScript.txt
+
+mv SourcePath DestinationPath
+(You will have problems with the names with spaces in it)
+tab:autofill 
