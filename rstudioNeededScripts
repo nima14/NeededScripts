@@ -5,3 +5,5 @@
                "C:/Users/Nima/Downloads/Compressed/corona-virus-report.zip")}
                
 by.x =  c("Province.State","Country.Region")
+
+top_n()
