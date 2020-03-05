@@ -1,1 +1,5 @@
   scale_fill_discrete(name = "Transmission", labels = c("Automatic", "Manual"))
+  
+  if(!file.exists("C:/Users/Nima/Downloads/Compressed/corona-virus-report.zip"))
+{download.file("https://www.kaggle.com/imdevskp/corona-virus-report/download",
+               "C:/Users/Nima/Downloads/Compressed/corona-virus-report.zip")}
